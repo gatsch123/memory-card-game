@@ -224,7 +224,7 @@ function endGame() {
     isGameStarted = false;
     clearInterval(gameInterval);
     setTimeout(() => {
-        alert(`Tebrikler! ${currentGridSize}x${currentGridSize} boyutunda oyunu ${timer} saniyede ${score} puan alarak bitirdiniz!`);
+        alert(`Tebrikler! ${currentGridSize}x${currentGridSize} boyutundaki oyunu ${timer} saniyede ${score} puan alarak bitirdiniz!`);
         showScreen('start-screen');
         resetGame();
     }, 500);
