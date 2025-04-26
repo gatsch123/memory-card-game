@@ -26,9 +26,9 @@ Eğlenceli bir hafıza kartı oyunu! Farklı temalar ve zorluk seviyeleriyle key
 
 ## Mobil Cihazlarda Oynamak İçin 📱
 
-1. Tarayıcınızdan [OYUN_LINKI] adresine gidin
+1. Tarayıcınızdan [https://gatsch123.github.io/memory-card-game] adresine gidin
 2. Oyunu açın ve keyfini çıkarın!
 
 ## Geliştirici 👨‍💻
 
-[ADINIZ] 
+[gatsch123] 
